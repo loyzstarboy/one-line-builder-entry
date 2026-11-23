@@ -1,0 +1,3 @@
+# Temporary README
+
+Temporary file to enable the About section. It will be deleted after the About section is set.
